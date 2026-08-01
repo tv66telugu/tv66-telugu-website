@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TV66 Telugu</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f4f4f4;
+}
+header{
+    background:#c40000;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+nav{
+    background:#222;
+    padding:10px;
+    text-align:center;
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+}
+.container{
+    width:90%;
+    margin:auto;
+    padding:20px;
+}
+.card{
+    background:white;
+    margin-bottom:15px;
+    padding:15px;
+    border-radius:8px;
+    box-shadow:0 2px 5px rgba(0,0,0,0.2);
+}
+footer{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>TV66 Telugu</h1>
+<p>Latest Telugu News</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">Breaking News</a>
+<a href="#">Politics</a>
+<a href="#">Sports</a>
+<a href="#">Entertainment</a>
+</nav>
+
+<div class="container">
+
+<div class="card">
+<h2>Breaking News</h2>
+<p>Latest breaking news will appear here.</p>
+</div>
+
+<div class="card">
+<h2>Entertainment</h2>
+<p>Latest entertainment updates will appear here.</p>
+</div>
+
+<div class="card">
+<h2>Sports</h2>
+<p>Latest sports news will appear here.</p>
+</div>
+
+</div>
+
+<footer>
+© 2026 TV66 Telugu. All Rights Reserved.
+</footer>
+
+</body>
+</html>
