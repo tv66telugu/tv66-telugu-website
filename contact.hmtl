@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact - TV66 Telugu</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<h1>📞 Contact TV66 Telugu</h1>
+
+<p><strong>Email:</strong> tv66telugu@gmail.com</p>
+<p><strong>Phone:</strong> +91 8143154309</p>
+<p><strong>Location:</strong> Hyderabad, Telangana, India</p>
+
+<a href="index.html">⬅ Back to Home</a>
+
+</body>
+</html>
